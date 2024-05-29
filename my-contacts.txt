@@ -1,0 +1,26 @@
+[
+    {
+        "id": "6657195a8d8cb",
+        "name": "Hans",
+        "email": "hans@asd.de",
+        "tel": "123456"
+    },
+    {
+        "id": "665719760254e",
+        "name": "Ernst",
+        "email": "ernst@qwe.dwe",
+        "tel": "987765"
+    },
+    {
+        "id": "66571e508d313",
+        "name": "Sabine",
+        "email": "sab@as.de",
+        "tel": "987435"
+    },
+    {
+        "id": "6657205b31ffe",
+        "name": "Ernst",
+        "email": "er@asd.de",
+        "tel": "876876"
+    }
+]
